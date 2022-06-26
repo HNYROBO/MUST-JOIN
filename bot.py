@@ -1,4 +1,4 @@
-import env
+import mustjoin
 import logging
 from pyrogram import Client, idle
 from pyromod import listen  # type: ignore
