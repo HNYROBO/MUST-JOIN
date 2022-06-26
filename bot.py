@@ -14,7 +14,7 @@ app = Client(
     api_hash=env.API_HASH,
     bot_token=env.BOT_TOKEN,
     in_memory=True,
-    plugins=dict(root="mustjoin"),
+    plugins=dict(root="StringSessionBot"),
 )
 
 
